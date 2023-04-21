@@ -1,0 +1,87 @@
+.prisma {
+    background-color:#565656;
+    color: aliceblue;
+    padding-left: 15px;
+    padding-left: 15px;
+    padding-left: 15px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: 1080px;
+
+   
+    display: table;
+    
+}
+
+header {
+    margin-top: 0px;
+    color:gray;
+}
+
+body {
+    margin-top: 0px;
+}
+
+.prisma li {
+    list-style: none;
+    color:floralwhite;
+    justify-items: auto;
+    justify-content: space-between;
+    padding-right: 50px;
+    
+
+}
+
+.prisma ul {
+    display: contents;
+    display: flex;
+    flex-direction: column-reverse;
+    font-size: 60px;
+    align-items: end;
+}
+
+.prisma input {
+    border-color: transparent;
+    background-color: transparent;
+    
+
+}
+
+.relogio input{
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.inseriPrisma input {
+    background-color: white;
+}
+
+.prisma h1 {
+    text-align: center;
+    padding-top: 15px;
+}
+
+.numero input {
+    color:aliceblue;
+    font-size: 300px;
+    width: 500px;
+    display: flex;
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+.prisma tr{
+    display:flexbox;
+    display: flex;
+    justify-content: center;
+    text-align: right;
+}
+
+.prisma th{
+    width: 600px;
+}
